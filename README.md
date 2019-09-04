@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/alkrstic/TestProject/_apis/build/status/acckrs.pipelines-java?branchName=master)](https://dev.azure.com/alkrstic/TestProject/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
